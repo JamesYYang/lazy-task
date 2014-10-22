@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "lazyTask.js",
+  "sourceRoot": "",
+  "sources": [
+    "lazyTask.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA,kBAAA;;AAAA,EAAA,SAAA,GAAY,OAAA,CAAQ,aAAR,CAAZ,CAAA;;AAAA,EAEA,OAAA,GAAU,MAAM,CAAC,OAAP,GAAiB,SAAA,GAAA;AACzB,IAAA,IAAG,CAAA,SAAU,CAAC,QAAd;AACE,MAAA,SAAS,CAAC,aAAV,CAAA,CAAA,CADF;KAAA;AAGA,WAAO,SAAP,CAJyB;EAAA,CAF3B,CAAA;AAAA"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lazy-task",
+  "version": "0.0.1",
+  "description": "lazy task with removing duplicate items",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Yang",
+  "license": "MIT"
+}

@@ -1,6 +1,6 @@
 {
   "name": "lazy-task",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "lazy task with removing duplicate items",
   "main": "index.js",
   "scripts": {

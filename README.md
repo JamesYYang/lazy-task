@@ -1,12 +1,12 @@
 lazy-task
 =========
 
-Lazy task with removing duplicate items. 
+Lazy task with removing duplicate items.
 
-If you are troubled with that huge function call during a inteval, and argument are exactlly same, and you want this function only called once. Lazy task is what you want.
+If you are troubled with that huge function call during a interval, and argument are exactly same, and you want this function only called once. Lazy task is what you want.
 
 
-## install 
+## Install 
 
 ```
 npm install lazy-task
@@ -33,7 +33,7 @@ npm install lazy-task
   i = 0;
 
   while (i < 10) {
-    // add to content to task
+    // add content to task
     lazyTask.addTaskEntity("Test", testEntity);
     i++;
   }
@@ -46,3 +46,7 @@ Task: Test
 Duplicate count: 10
 { message: 'hello lazy task' }
 ```
+
+## License
+
+MIT
